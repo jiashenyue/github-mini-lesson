@@ -28,6 +28,7 @@ According to the [Quickstart Guide of GitHub](https://docs.github.com/en/get-sta
 
 
 ## For non-coders
+
 - Check out [this folder](https://github.com/jiashenyue/github-mini-lesson/tree/main/non-coder)
 
 ## For coders
