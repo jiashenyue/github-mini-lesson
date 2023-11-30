@@ -1,6 +1,7 @@
 # GitHub Mini-lesson
  
 This is a mini-lesson designed for GIS certificate students.
+Developed by Shenyue Jia | [jiashenyue.info](jiashenyue.info)
 
 ## Introduction
 According to the [Quickstart Guide of GitHub](https://docs.github.com/en/get-started/quickstart/hello-world):
