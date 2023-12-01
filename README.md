@@ -35,8 +35,15 @@ According to the [Quickstart Guide of GitHub](https://docs.github.com/en/get-sta
 4. Class showcase and vote for the best work
 5. After necessary revisions (if needed), the best work will create a **pull request** and be merged into the upstream repository
 
-## For non-coders
+## Tutorials for non-coders
 
 - Check out [this folder](https://github.com/jiashenyue/github-mini-lesson/tree/main/non-coder)
+- Concepts and methods covered
+  - Workflow in GitHub for non-coding works
+  - Creating a repository
+  - Add commits to repository
+  - Fork an upstream repository
+  - Creating a branch
+  - Creating a pull request from a forked repository
 
-## For coders
+## Tutorials for coders
