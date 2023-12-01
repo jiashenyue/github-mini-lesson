@@ -27,6 +27,13 @@ According to the [Quickstart Guide of GitHub](https://docs.github.com/en/get-sta
   - **Demonstrating Technical Familiarity**
     - Including a GitHub profile on your CV demonstrates a level of technical familiarity, even if you're not a coder. Employers appreciate individuals who are comfortable using modern tools and platforms.
 
+### Workflow in GitHub of GEO 242
+
+1. GAC will provide an **upstream repositor**y for each course project to be **forked**
+2. Each student forks the upstream repository and creates a **branch** from the `main`
+3. Each student works in their branch
+4. Class showcase and vote for the best work
+5. After necessary revisions (if needed), the best work will create a **pull request** and be merged into the upstream repository
 
 ## For non-coders
 
